@@ -25,9 +25,9 @@ The Flutter Todo App is a versatile task management application designed to help
   ## Project Screenshots:
 
 <div style="display: flex;">
-        <img src="https://github.com/Coffee-Expert/Todoey/blob/master/test/todoey%201.jpeg" alt="Image 3" width="290" height="560" style="padding: 30px;">
-        <img src="https://github.com/Coffee-Expert/Todoey/blob/master/test/todoey%202.jpeg" alt="Image 1" width="290" height="560" style="padding: 30px;">
-        <img src="https://github.com/Coffee-Expert/Todoey/blob/master/test/todoey%203.jpeg" alt="Image 2" width="290" height="560" style="padding: 30px;">
+        <img src="https://github.com/Coffee-Expert/Todoey/blob/master/test/todoey%201.jpeg" alt="Image 3" width="260" height="540" style="padding: 30px;">
+        <img src="https://github.com/Coffee-Expert/Todoey/blob/master/test/todoey%202.jpeg" alt="Image 1" width="260" height="540" style="padding: 30px;">
+        <img src="https://github.com/Coffee-Expert/Todoey/blob/master/test/todoey%203.jpeg" alt="Image 2" width="260" height="540" style="padding: 30px;">
     </div>
     
 **Development Timeline:**
