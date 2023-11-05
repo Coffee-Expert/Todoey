@@ -1,23 +1,23 @@
 
-**Project Title: Todoey App**
+<h1> Project Title: Todoey App </h1>
 Wanna get something done? Start by installing this first :)
 
 
 Purpose: To learn to create flutter apps using State Management (Flutter Provider) 
 
-**Project Description:**
+## Project Description:
 The Flutter Todo App is a versatile task management application designed to help users organize and prioritize their daily activities. Developed using Flutter, this app offers a straightforward interface to create, manage, and track tasks efficiently.
 
- **Task Management:**
+ ## Task Management:
    - Users can add, edit, and delete tasks.
    - Tasks can have titles, descriptions, due dates, and priorities.
    - Organize tasks into different categories or lists for better organization.
 
-**Technology Stack:**
+## Technology Stack:
 - **Frontend:** Flutter for cross-platform mobile development.
 - **User Authentication:** Firebase Authentication.
 
-**Project Goals:**
+## Project Goals:
 - Create an intuitive and user-friendly task management interface.
 - Prioritize user data security and privacy.
 - Ensure optimal performance on both iOS and Android platforms.
